@@ -1,3 +1,4 @@
+image_name,x_min,y_min,x_max,y_max,class_name
 /content/train\leather (1).jpg,29,4,203,164,red-leather-ball
 /content/train\leather (10).jpg,53,34,159,119,red-leather-ball
 /content/train\leather (100).jpg,171,29,239,95,red-leather-ball
